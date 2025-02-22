@@ -1,0 +1,12 @@
+idProjeto,idResponsavel,nomeProjeto,descricaoProjeto,inicio,conclusao,custo,status
+1,1,E-commerce de Eletrônicos [Site Institucional],"Desenvolvimento de loja virtual de eletrônicos: página inicial, produtos, carrinho de compras, sistema de pagamento, dashboard.",2025-02-10,2025-04-10,8000,Em Execução
+2,15,Restaurante [Single page],"Desenvolvimento página única do site de restaurante: banner, sobre, cardápio, formulário de contato.",2025-01-05,2025-01-15,3000,Concluído
+3,1,Manutenção de E-commerce de Roupas,Correção de erros de funcionalidade.,2024-11-24,2024-12-02,600,Concluído
+4,16,Portfólio Advogado [Site Institucional],"Desenvolvimento de um site de portfólio: banner, biografia, casos de sucesso e contato.",2025-02-19,2025-02-28,4000,Em Planejamento
+5,21,Publicidade Paga I,Desenvolvimento de Publicidades em Redes Sociais.,2024-12-10,2024-12-16,450,Concluído
+6,4,Publicidade Paga II,Desenvolvimento de Publicidades em Redes Sociais.,2025-02-13,2025-02-23,500,Em Execução
+7,8,Planejamento Financeiro I,Desenvolvimento de ferramentas para o planejamento financeiro da empresa.,2025-01-10,2025-01-17,600,Concluído
+8,8,Planejamento Financeiro II,Desenvolvimento do planejamento financeiro da empresa.,2025-02-19,2025-02-28,500,Em Andamento
+9,12,Planejamento I,Desenvolvimento de Estratégias,2025-02-19,2025-02-19,500,Cancelado
+10,16,E-commerce de Roupas [Site Institucional],"Desenvolvimento de loja virtual de roupas: página inicial, roupas, carrinho de compras, sistema de pagamento, dashboard.",2025-02-15,2025-04-15,8000,Em Execução
+11,1,Portfolio Garçom [Single page],"Desenvolvimento página única do site de portfílo: banner, sobre, currículo, formulário de contato.",2025-02-22,2025-03-01,3000,Em Execução
