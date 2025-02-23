@@ -45,7 +45,7 @@ tp4_3 = consultar_tabelas("""
     SUM(P.custo)              AS CustoTotal
     FROM tb_Funcionario  F
     JOIN tb_Departamento D ON D.idDepartamento = F.idDepartamento
-    JOIN tb_Projeto      P ON P.idResponsavel = idFuncionario
+    JOIN tb_Projeto      P ON P.idResponsavel = F.idFuncionario
     WHERE P.status = 'Concluído'
     GROUP BY D.nomeDepartamento;                      
     """,'tp4.3')
