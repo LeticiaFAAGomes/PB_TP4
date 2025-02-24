@@ -1,7 +1,7 @@
 from api.crud import *
 from api.criacao_tabelas import executar_tabelas
 
-funcionarios, cargos, departamentos, salarios, dependentes, projetos, recursos = executar_tabelas()
+executar_tabelas()
 
 amarelo = '\x1b[38;5;229m'
 

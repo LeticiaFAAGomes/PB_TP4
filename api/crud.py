@@ -32,7 +32,7 @@ def consultar_tabelas(comando, arquivo=None):
         arquivo(str/None): Refere-se ao nome do arquivo JSON caso exista.
     
     Returns:
-        lista(list): Retorna o resultado do comando SQL.
+        str: Retorna o resultado do comando SQL formatado em tabela.
     
     '''
     lista, armazenamento = [], []
